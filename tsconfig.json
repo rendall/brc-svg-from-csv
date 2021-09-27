@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true,
+    "lib": [
+      "DOM",
+      "ES2015",
+      "ES6"
+    ],
+    "module": "ES2015",
+    "moduleResolution": "Node",
+    "skipLibCheck": true,
+    "strict": true,
+    "target": "ES6",
+    "typeRoots": ["./node_modules/@types", "./types"]
+  }
+}
